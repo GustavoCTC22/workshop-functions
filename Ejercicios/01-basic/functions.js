@@ -26,7 +26,7 @@ let prueba4 = prueba3();
 console.log(prueba4);
 console.log(saludar("Ana"));
 const saludar = function saludarFunc(nombre) {
-  return `Hola, ${nombre}`;
+  return `Hola, ${nombre} bienvenido`;
 };
 
 //Funciones Flecha / Arrow functions
